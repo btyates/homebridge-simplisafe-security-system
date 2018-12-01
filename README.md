@@ -11,7 +11,7 @@ This project is a [Homebridge](https://github.com/nfarina/homebridge) pluging th
 - Usage of this plugin requires the extra $10/month online monitoring plan, since that enables the required API endpoints to control the alarm remotely.
 
 ## Installation
-    npm install -g git+https://github.com/chowielin/homebridge-simplisafe-security-system.git
+    npm install -g git+https://github.com/btyates/homebridge-simplisafe-security-system.git
 
 
 ## Configuration
